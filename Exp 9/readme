@@ -1,1 +1,2 @@
-
+A Flutter-based calculator app that uses SQLite to store the history of previous calculations.
+todo list app made using react native with sqlite database
